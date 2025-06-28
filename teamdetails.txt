@@ -1,0 +1,13 @@
+Team name: Penguins
+Team members: Muthumari,Babyshalini,Divya,Gayathri
+Title: cosmetics website
+Pages: 6
+
+Tasks
+
+Muthumari: creating a Home,contact, ourservice pages.
+Babyshalini: creating a Aboutus page. 
+Divya: creating a login page.
+Gayathri: creating a products page. 
+
+Summary: In this project we are going to create a online shopping and services for cosmetics

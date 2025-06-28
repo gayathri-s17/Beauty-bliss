@@ -1,0 +1,1285 @@
+h1 {
+  text-align: center;
+  color: green;
+}
+h2 {
+  font-style: oblique;
+  font-size: 150px;
+  text-align: center;
+  color: blue;
+  text-shadow: 3px 10px violet;
+}
+h3 {
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+  color: mediumblue;
+}
+h4 {
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+  color: hotpink;
+}
+h5 {
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+  color: mediumblue;
+}
+h6 {
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+  color: mediumvioletred;
+}
+.head {
+  align-items: center;
+  justify-content: center;
+}
+a {
+  text-decoration: None;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  background-color: pink;
+  outline: 3px blue solid;
+  font-size: 30px;
+  align-items: center;
+  padding: 10px;
+  word-spacing: 5px;
+
+  margin: 50px;
+  border-radius: 10px;
+  justify-content: space-around;
+}
+.primer img {
+  outline: 1px solid;
+  outline-color: black;
+  float: right;
+  padding: 20px;
+  border-radius: 10px;
+}
+.primer {
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+  color: black;
+  margin: 10px;
+  padding: 20px;
+}
+.concealer img {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.concealer {
+  color: black;
+  margin: 10px;
+  padding: 20px;
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.foundation img {
+  outline: 1px solid;
+  outline-color: black;
+  float: right;
+  padding: 20px;
+  border-radius: 10px;
+}
+.foundation {
+  color: black;
+  margin: 10px;
+  padding: 20px;
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.eyeliner img {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.eyeliner {
+  color: black;
+  margin: 10px;
+  padding: 20px;
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.mascara img {
+  outline: 1px solid;
+  outline-color: balck;
+  float: right;
+  padding: 20px;
+  border-radius: 10px;
+}
+.mascara {
+  color: black;
+  margin: 10px;
+  padding: 20px;
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.lipstick img {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.lipstick {
+  color: black;
+  margin: 10px;
+  padding: 20px;
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.moisturizer img {
+  outline: 1px solid;
+  outline-color: black;
+  float: right;
+  padding: 20px;
+  border-radius: 10px;
+}
+.moisturizer {
+  color: black;
+  margin: 10px;
+  padding: 20px;
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.sunscreen img {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.sunscreen {
+  color: black;
+  margin: 10px;
+  padding: 20px;
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.serum img {
+  outline: 1px solid;
+  outline-color: black;
+  float: right;
+  padding: 20px;
+  border-radius: 10px;
+}
+.serum {
+  color: black;
+  margin-bottom: 30px;
+  padding: 20px;
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.viewmore {
+  font-size: 30px;
+  border-radius: 10px;
+  margin: auto;
+  padding: 3px;
+  width: 250px;
+  text-align: center;
+  align-items: center;
+  outline: 3px palevioletred solid;
+  background-color: mediumturquoise;
+}
+
+.box {
+  background-color: #dd8ea4;
+  font-size: 20px;
+  outline-style: solid;
+  margin: 40px;
+  padding: 10px;
+  border-radius: 10px;
+  outline-color: #a77a95;
+
+  top: 0;
+}
+.shop {
+  background-color: skyblue;
+  color: blue;
+  width: 1400px;
+  height: 630px;
+  float: left;
+  clear: both;
+  outline: 3px solid;
+  outline-color: skyblue;
+  margin: 30px;
+}
+.shop img {
+  width: 100%;
+  height: 625px;
+}
+.contact {
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+  color: red;
+}
+.icons {
+  font-size: 50px;
+  position: relative;
+  left: 600px;
+}
+.pic1 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic1:hover,
+.pic2:hover,
+.pic3:hover,
+.pic4:hover,
+.pic5:hover,
+.pic6:hover,
+.pic7:hover,
+.pic8:hover,
+.pic9:hover,
+.pic10:hover,
+.pic11:hover,
+.pic12:hover,
+.pic13:hover,
+.pic14:hover,
+.pic15:hover,
+.pic16:hover,
+.pic17:hover,
+.pic18:hover,
+.pic19:hover,
+.pic20:hover,
+.pic21:hover,
+.pic22:hover,
+.pic23:hover,
+.pic24:hover,
+.pic25:hover,
+.pic26:hover,
+.pic27:hover,
+.pic28:hover,
+.pic29:hover,
+.pic30:hover,
+.pic31:hover,
+.pic32:hover,
+.pic33:hover,
+.pic34:hover,
+.pic35:hover,
+.pic36:hover,
+.pic38:hover,
+.pic39:hover,
+.pic40:hover,
+.pic41:hover,
+.pic42:hover,
+.pic43:hover,
+.pic44:hover,
+.pic45:hover,
+.pic46:hover,
+.pic47:hover,
+.pic48:hover,
+.pic49:hover,
+.pic50:hover,
+.pic51:hover,
+.pic52:hover,
+.pic53:hover,
+.pic54:hover,
+.pic55:hover,
+.pic56:hover,
+.pic57:hover,
+.pic58:hover,
+.pic59:hover,
+.pic60:hover,
+.pic61:hover,
+.pic62:hover,
+.pic63:hover,
+.pic64:hover {
+  transform: scale(1.2);
+  background-color: rgb(224, 92, 224);
+}
+.pic2 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic2:hover {
+  transform: scale(1.2);
+}
+
+.pic3 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic3:hover {
+  transform: scale(1.2);
+}
+
+.pic4 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic4:hover {
+  transform: scale(1.2);
+}
+
+.pic5 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic5:hover {
+  transform: scale(1.2);
+}
+
+.pic6 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic6:hover {
+  transform: scale(1.2);
+}
+
+.pic7 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic7:hover {
+  transform: scale(1.2);
+}
+
+.pic8 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic8:hover {
+  transform: scale(1.2);
+}
+
+.pic9 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic9:hover {
+  transform: scale(1.2);
+}
+
+.pic10 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic10:hover {
+  transform: scale(1.2);
+}
+
+.pic11 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic11:hover {
+  transform: scale(1.2);
+}
+
+.pic12 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic12:hover {
+  transform: scale(1.2);
+}
+
+.pic13 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic13:hover {
+  transform: scale(1.2);
+}
+
+.pic14 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic14:hover {
+  transform: scale(1.2);
+}
+
+.pic15 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic15:hover {
+  transform: scale(1.2);
+}
+
+.pic16 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic16:hover {
+  transform: scale(1.2);
+}
+
+.pic17 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic17:hover {
+  transform: scale(1.2);
+}
+.pic18 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic18:hover {
+  transform: scale(1.2);
+}
+.pic19 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic19:hover {
+  transform: scale(1.2);
+}
+.pic20 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic20:hover {
+  transform: scale(1.2);
+}
+.pic21 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic21:hover {
+  transform: scale(1.2);
+}
+.pic22 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic22:hover {
+  transform: scale(1.2);
+}
+.pic23 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic23:hover {
+  transform: scale(1.2);
+}
+.pic24 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic24:hover {
+  transform: scale(1.2);
+}
+.pic25 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic25:hover {
+  transform: scale(1.2);
+}
+
+.pic26 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic26:hover {
+  transform: scale(1.2);
+}
+
+.pic27 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic27:hover {
+  transform: scale(1.2);
+}
+
+.pic28 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic28:hover {
+  transform: scale(1.2);
+}
+
+.pic29 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic29:hover {
+  transform: scale(1.2);
+}
+
+.pic30 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic30:hover {
+  transform: scale(1.2);
+}
+
+.pic31 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic31:hover {
+  transform: scale(1.2);
+}
+
+.pic32 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic32:hover {
+  transform: scale(1.2);
+}
+
+.pic33 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic33:hover {
+  transform: scale(1.2);
+}
+
+.pic34 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic34:hover {
+  transform: scale(1.2);
+}
+
+.pic35 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic35:hover {
+  transform: scale(1.2);
+}
+
+.pic36 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic36:hover {
+  transform: scale(1.2);
+}
+
+.pic37 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic37:hover {
+  transform: scale(1.2);
+}
+
+.pic38 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic38:hover {
+  transform: scale(1.2);
+}
+
+.pic39 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic39:hover {
+  transform: scale(1.2);
+}
+
+.pic40 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic40:hover {
+  transform: scale(1.2);
+}
+
+.pic41 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic41:hover {
+  transform: scale(1.2);
+}
+
+.pic42 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic42:hover {
+  transform: scale(1.2);
+}
+
+.pic43 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic43:hover {
+  transform: scale(1.2);
+}
+
+.pic44 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic44:hover {
+  transform: scale(1.2);
+}
+
+.pic45 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic45:hover {
+  transform: scale(1.2);
+}
+
+.pic46 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic46:hover {
+  transform: scale(1.2);
+}
+
+.pic47 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic47:hover {
+  transform: scale(1.2);
+}
+
+.pic48 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic48:hover {
+  transform: scale(1.2);
+}
+
+.pic49 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic49:hover {
+  transform: scale(1.2);
+}
+
+.pic50 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic50:hover {
+  transform: scale(1.2);
+}
+
+.pic51 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic51:hover {
+  transform: scale(1.2);
+}
+
+.pic52 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic52:hover {
+  transform: scale(1.2);
+}
+
+.pic53 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic53:hover {
+  transform: scale(1.2);
+}
+
+.pic54 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic54:hover {
+  transform: scale(1.2);
+}
+
+.pic55 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic55:hover {
+  transform: scale(1.2);
+}
+
+.pic56 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic56:hover {
+  transform: scale(1.2);
+}
+
+.pic57 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic57:hover {
+  transform: scale(1.2);
+}
+
+.pic58 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic58:hover {
+  transform: scale(1.2);
+}
+
+.pic59 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic59:hover {
+  transform: scale(1.2);
+}
+
+.pic60 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic60:hover {
+  transform: scale(1.2);
+}
+
+.pic61 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic61:hover {
+  transform: scale(1.2);
+}
+
+.pic62 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic62:hover {
+  transform: scale(1.2);
+}
+
+.pic63 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic63:hover {
+  transform: scale(1.2);
+}
+
+.pic64 {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: plum;
+}
+.pic64:hover {
+  transform: scale(1.2);
+}
+
+.buy {
+  color: blue;
+  text-decoration: none;
+  background-color: hotpink;
+  text-align: center;
+  outline: 1px blue solid;
+  border-radius: 5px;
+  padding: 1px;
+  margin: 30px;
+  font-size: 15px;
+}
+.details {
+  text-align: center;
+  font-size: 25px;
+}
+input {
+  border-radius: 20px;
+  width: 250px;
+  height: 30px;
+}
+.forgot {
+  margin: 20px;
+  text-align: center;
+  color: darkviolet;
+  font-size: 20px;
+}
+.log {
+  text-decoration: none;
+  font-size: 30px;
+  border-radius: 10px;
+  margin: auto;
+  padding: 3px;
+  width: 250px;
+  text-align: center;
+  align-items: center;
+  outline: 3px palevioletred solid;
+  background-color: mediumturquoise;
+}
+
+.who img {
+  outline: 1px solid;
+  outline-color: black;
+  float: right;
+  padding: 20px;
+  border-radius: 10px;
+}
+.who {
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+  color: black;
+  margin: 10px;
+  padding: 20px;
+}
+.free img {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.free {
+  color: black;
+  margin: 10px;
+  padding: 20px;
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.test img {
+  outline: 1px solid;
+  outline-color: black;
+  float: right;
+  padding: 20px;
+  border-radius: 10px;
+}
+.test {
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+  color: black;
+  margin: 10px;
+  padding: 20px;
+}
+.reason img {
+  outline: 1px solid;
+  outline-color: black;
+  float: left;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.reason {
+  color: black;
+  margin: 10px;
+  padding: 20px;
+  line-height: 1.4;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.kind {
+  justify-content: center;
+  margin: auto;
+  width: 450px;
+}
+img {
+  filter: saturate(130%);
+}
+.cash img {
+  float: right;
+}
+.cash {
+  float: left;
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+  word-spacing: 5px;
+}
+.shipping img {
+  float: left;
+}
+.shipping {
+  float: right;
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+  word-spacing: 5px;
+}
+.online img {
+  float: right;
+}
+.online {
+  float: left;
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+  word-spacing: 5px;
+}
+.submit {
+  text-decoration: none;
+  font-size: 30px;
+  border-radius: 10px;
+  margin: auto;
+  padding: 3px;
+  width: 250px;
+  text-align: center;
+  align-items: center;
+  outline: 3px palevioletred solid;
+  background-color: mediumturquoise;
+}
+.details {
+  box-shadow: 0 5px 5px;
+}
